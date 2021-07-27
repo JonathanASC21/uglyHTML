@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Consolas;
+}
+
+h1{
+    text-align: center;
+    color: rgb(248, 203, 70);
+    background-color: rgb(54, 85, 150);
+}
+
+h2{
+    font-size: 20px;
+}
+
+#starters_image_div{
+    text-align: center;
+    border: 5px solid rgb(54, 85, 150);
+    padding: 5px 5px 5px 5px;
+    margin: 10px 10px 10px 10px;
+}
+
+.each_pokemon_container{
+    text-align: center;
+}
